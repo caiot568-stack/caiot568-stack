@@ -1,6 +1,6 @@
 # Caio Travassos
 
-**Estudante de Sistemas de Informação | Interessado em Análise de Dados e Business Intelligence**
+**Estudante de Sistemas de Informação | Interessado em Análise de Dados**
 
 ---
 
@@ -30,7 +30,6 @@ Busco constantemente aprimorar minhas habilidades por meio de estudos, projetos 
 
 **Áreas de Interesse**
 - Análise de Dados
-- Business Intelligence (BI)
 - Ciência de Dados
 - Engenharia de Dados
 
@@ -38,7 +37,6 @@ Busco constantemente aprimorar minhas habilidades por meio de estudos, projetos 
 
 - Aprofundar conhecimentos em análise e visualização de dados.
 - Desenvolver habilidades em Python e SQL.
-- Aprender ferramentas de Business Intelligence, como Power BI.
 - Desenvolver projetos práticos envolvendo análise e interpretação de dados.
 - Construir uma carreira profissional na área de tecnologia e dados.
 
